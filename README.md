@@ -1,10 +1,8 @@
-# Zero
-> 搭配`webpack`的`multiple entry`和`dependOn`完美实现小游戏的分包加载。这样可以实现小游戏的多合一且具有更好的隔离效果。
+# Step one
+Clone the repositories
 
-# 说明
-之前的代码移入分支: [legacy](https://github.com/JetLua/colloc/tree/legacy)
+# Step two
+Download weixin devtools from this link: https://developers.weixin.qq.com/miniprogram/en/dev/devtools/download.html
 
-# Todo
-- [x] main: 《小石潭记》开场
-- [ ] colloc: 弹球游戏
-- [ ] sudoku: 数独游戏
+# Step three
+In the home interface, choose mini game and then import the repository 
